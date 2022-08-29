@@ -40,3 +40,37 @@ h1 {
     color: black;
     font-size: 11px;
 }
+
+span {
+    background-color: yellow;
+}
+.seconda-sezione p {
+    margin-top: 15px;
+}
+
+ul {
+    margin-top: 15px;
+    padding-left: 15px;
+}
+
+table {
+    margin-top: 15px;
+}
+
+.colonna-al-25 {
+    width: 25%;
+}
+
+.colonna-al-50 {
+    width: 50%;
+}
+
+#tr-thead {
+    text-align: left;
+    background-color:rgb(69, 142, 225);
+    color: white;
+}
+
+.tr-td {
+    background-color: rgb(177, 233, 252);
+}
