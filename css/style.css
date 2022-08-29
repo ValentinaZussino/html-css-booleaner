@@ -41,6 +41,14 @@ h1 {
     font-size: 11px;
 }
 
+#tim-1 {
+    width: 50%;
+}
+
+#tim-2 {
+    width: 42%;
+}
+
 span {
     background-color: yellow;
 }
@@ -78,7 +86,7 @@ table {
 
 footer {
     margin-top: 25px;
-    margin-left: 5px;
+    padding-left: 5px;
 }
 
 h4 {
