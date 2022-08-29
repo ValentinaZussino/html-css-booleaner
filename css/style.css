@@ -55,6 +55,7 @@ ul {
 
 table {
     margin-top: 15px;
+    border-collapse: collapse;
 }
 
 .colonna-al-25 {
