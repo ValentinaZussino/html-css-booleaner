@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-color: rgb(69, 142, 225);
+}
+
+#logo-top {
+    width: 20%;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+main {
+    padding: 40px 40px 20px 40px;
+    text-align: center;
+}
+
+.prima-sezione p {
+    color: rgb(104, 103, 103);
+}
+
+.prima-sezione a {
+    color:rgb(12, 184, 219);
+    text-decoration: none;
+}
+.images-wrap {
+    margin-top: 15px;
+}
+
+.images-wrap p {
+    color: black;
+    font-size: 11px;
+}
+
+span {
+    background-color: yellow;
+}
+.seconda-sezione p {
+    margin-top: 15px;
+}
+
+ul {
+    margin-top: 15px;
+    padding-left: 15px;
+}
+
+table {
+    margin-top: 15px;
+    border-collapse: collapse;
+}
+
+.colonna-al-25 {
+    width: 25%;
+}
+
+.colonna-al-50 {
+    width: 50%;
+}
+
+#tr-thead {
+    text-align: left;
+    background-color:rgb(69, 142, 225);
+    color: white;
+}
+
+.tr-td {
+    background-color: rgb(177, 233, 252);
+}
+
+footer {
+    padding: 40px;
+}
+
+h4 {
+    color: rgb(136, 136, 136);
+}
+
+footer div {
+    margin-top: 10px;
+    height: 110px;
+    width: 150px;
+}
+
+#immagine-pc {
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+}
+
+#immagine-grafico {
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+}
+
+footer p {
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-left: 5px;
+}
