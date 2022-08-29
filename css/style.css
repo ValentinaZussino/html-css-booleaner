@@ -75,3 +75,36 @@ table {
 .tr-td {
     background-color: rgb(177, 233, 252);
 }
+
+footer {
+    margin-top: 25px;
+    margin-left: 5px;
+}
+
+h4 {
+    color: rgb(136, 136, 136);
+}
+
+footer div {
+    margin-top: 10px;
+    height: 110px;
+    width: 150px;
+}
+
+#immagine-pc {
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+}
+
+#immagine-grafico {
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+}
+
+footer p {
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-left: 5px;
+}
