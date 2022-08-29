@@ -3,3 +3,40 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-color: rgb(69, 142, 225);
+}
+
+#logo-top {
+    width: 20%;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+main {
+    padding-left: 5px;
+}
+
+h1 {
+    padding-top: 15px;
+}
+
+.first-section p {
+    color: rgb(104, 103, 103);
+}
+
+.first-section a {
+    color:rgb(12, 184, 219);
+    text-decoration: none;
+}
+.images-wrap {
+    margin-top: 15px;
+}
+
+.images-wrap p {
+    color: black;
+    font-size: 11px;
+}
